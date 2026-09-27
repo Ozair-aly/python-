@@ -1,0 +1,5 @@
+a = input("enter your fav movie1: ")
+b = input("enter your fav movie2:")
+c = input("enter your fav movie3: ")
+favmovies = (a,b,c)
+print(favmovies)
